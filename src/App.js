@@ -1,4 +1,4 @@
-import { useState,useEffect } from 'react';
+import { useMemo,useState,useEffect } from 'react';
 import './App.css';
 import Square from './square';
 import {Patterns} from './logika'
